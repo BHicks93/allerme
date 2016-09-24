@@ -36,5 +36,5 @@ svg {
 @media only screen 
 and (min-device-width : 375px) 
 and (max-device-width : 667px) {
-	svg { width: 400px; height: auto; margin: -200px 0 0 -200px;
+	svg { width: 400px; height: auto; margin: -250px 0 0 -200px;
 }
